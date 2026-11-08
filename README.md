@@ -32,13 +32,13 @@ End-to-end Data Warehouse project implementing:
 * Advanced PySpark
 * Databricks
 * Azure Data Engineering
+##🗄️ Databases
+SQL Server  MySQL  MongoDB
 
 ## 🎯 Career Goal
 
 Looking for opportunities as a **Junior Data Engineer** where I can build reliable data pipelines and grow within a professional data engineering team.
 
-## 📫 Connect With Me
-
-* **LinkedIn:** [Mohamed Boghdad](https://www.linkedin.com/in/mohamed-boghdad-46a169403)
-* **Email:** [mohamedkboghdad@gmail.com](mailto:mohamedkboghdad@gmail.com)
+## 🌐 Connect With Me
+linkedin logo gmail logo whatsapp logo
 
